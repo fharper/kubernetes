@@ -1,3 +1,3 @@
-# repository-template
+# kubernetes
 
-Just a template repository containing all the initial files I want when I create a new one
+Some Kubernetes applications YAML files for K1 demos.
